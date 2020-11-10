@@ -1,0 +1,26 @@
+<html lang="en">
+<head>
+  <meta charset="UTF-8"/>
+  <title>可视化音乐播放器</title>
+  <script src="https://cdn.bootcss.com/jquery/3.3.1/jquery.min.js"></script>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <a href="javascript:;" class="file">
+      选择歌曲
+      <input type="file" name="" value="" id="musicFile">
+    </a>
+    <a href="javascript:;" class="file">
+      选择歌词
+      <input type="file" name="" value="" id="lyricFile">
+    </a>
+    <p id="tip"></p>
+    <div class="container">
+        <p id="title" style="text-align:center;font-size: 30px;color:dodgerblue">史一哲</p>
+        <canvas id="canvas"></canvas>
+    </div>
+    <div class="lyric-content" id="show-lrc-content">loading...</div>      
+    <audio id="audio" controls autoplay></audio>
+    <script type="text/javascript" src="script.js"></script>
+</body>
+</html>
