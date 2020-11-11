@@ -1,7 +1,7 @@
 # Computer-Graphics
-Fdu Computer Graphics projects
+> Fdu Computer Graphics projects
 
-- Project 1 
+## Project 1 
 
 > 代码仅供参考
 
