@@ -16,3 +16,10 @@
 - 优化频谱图的显示
 
 ![](project1/images/demo.png)
+
+## Project 1 
+使用 OpenGL
+
+效果图
+
+![](project2/images/demo.png)
