@@ -13,5 +13,6 @@ Fdu Computer Graphics projects
 ![](project1/images/demo_1.png)
 
 - 新增随机播放、随机切换背景图、生成气泡功能
+- 优化频谱图的显示
 
 ![](project1/images/demo.png)
