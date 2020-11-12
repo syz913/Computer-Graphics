@@ -23,3 +23,8 @@
 效果图
 
 ![](project2/images/demo.png)
+
+## Project 1 
+使用 Flash CS6 Pro
+
+简单的实现了灯泡、蜡烛燃烧、闪电的动画
