@@ -31,4 +31,4 @@ version 1: 简单的实现了灯泡、蜡烛燃烧、闪电的动画
 
 version 2: 上一个太无聊，做了火柴人打斗的动画，因为水平不行，所以异常粗糙
 
-![](project3/stick-man.mp3)
+![](project3/stickman.gif)
